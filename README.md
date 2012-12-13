@@ -36,3 +36,5 @@ This page shows words taken from your facebook statuses. Break the sentences int
 
 Social Network:
 This page shows your social network visualization. As the library need a json file as the input, a json file is created with a random number name (in temp folder) to make it work. To prevent different users using the same file, a different name is used based on random number. It is just displaying you and your friends as nodes and connected in a graph. The color represents the communities among your friends.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.

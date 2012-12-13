@@ -1,7 +1,7 @@
 MineFacebook
 ============
 
-It is a website based facebook application. It mine your facebook data and present an easy to understand user interface.
+It is a website based facebook application. It mine your facebook data and present an easy to understand user interface. All the functions on the webpage are based on a few friends data. It is very slow to get all friends data from facebook. This problem can be solved if I store everything in database however it is privacy issue so I decided to just get a few samples.
 Get public data of a user.
 https://graph.facebook.com/[id or me or username]
 

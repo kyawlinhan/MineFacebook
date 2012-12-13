@@ -1,0 +1,3 @@
+[07-Dec-2012 12:57:59 UTC] PHP Parse error:  syntax error, unexpected '$friends' (T_VARIABLE) in /home/kyaw2/public_html/tests/socialNetworkTest.php on line 6
+[07-Dec-2012 12:58:40 UTC] PHP Warning:  require_once(../src/UserTimeStamps.php): failed to open stream: No such file or directory in /home/kyaw2/public_html/tests/socialNetworkTest.php on line 2
+[07-Dec-2012 12:58:40 UTC] PHP Fatal error:  require_once(): Failed opening required '../src/UserTimeStamps.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kyaw2/public_html/tests/socialNetworkTest.php on line 2

@@ -1,0 +1,88 @@
+https://graph.facebook.com/522706443?access_token=AAAFK27x46k8BAEBwRw2SPEAatMBhmy6kTv2iqh4SUy1AO1mQfHZCZBDxfmtpO4GMn82AYf0ZBPUkceOuEPbgT3C5AZCpFdKROfNk46BEPwZDZD
+
+{
+   "id": "522706443",
+   "name": "Jian Long Lui",
+   "first_name": "Jian Long",
+   "last_name": "Lui",
+   "link": "https://www.facebook.com/luijianlong",
+   "username": "luijianlong",
+   "birthday": "06/04/1984",
+   "hometown": {
+      "id": "101883206519751",
+      "name": "Singapore, Singapore"
+   },
+   "location": {
+      "id": "101883206519751",
+      "name": "Singapore, Singapore"
+   },
+   "education": [
+      {
+         "school": {
+            "id": "107950875905899",
+            "name": "Raffles Institution"
+         },
+         "year": {
+            "id": "132393000129123",
+            "name": "2001"
+         },
+         "type": "High School"
+      },
+      {
+         "school": {
+            "id": "106242979407480",
+            "name": "Victoria Junior College"
+         },
+         "year": {
+            "id": "132393000129123",
+            "name": "2001"
+         },
+         "type": "High School"
+      },
+      {
+         "school": {
+            "id": "188991601140026",
+            "name": "Nanyang Technological University"
+         },
+         "year": {
+            "id": "136328419721520",
+            "name": "2009"
+         },
+         "concentration": [
+            {
+               "id": "200814036599096",
+               "name": "Mechanical and Aerospace Engineering"
+            }
+         ],
+         "type": "College"
+      },
+      {
+         "school": {
+            "id": "112038778823321",
+            "name": "Serangoon Garden Secondary School"
+         },
+         "type": "College"
+      },
+      {
+         "school": {
+            "id": "203176483062103",
+            "name": "National Institute of Education, Singapore"
+         },
+         "year": {
+            "id": "201638419856163",
+            "name": "2011"
+         },
+         "type": "Graduate School",
+         "classes": [
+            {
+               "id": "167832296642570",
+               "name": "PGDE (PE) Sec 3A 2011"
+            }
+         ]
+      }
+   ],
+   "gender": "male",
+   "relationship_status": "Single",
+   "locale": "en_US",
+   "updated_time": "2012-10-27T12:23:43+0000"
+}
